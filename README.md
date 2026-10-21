@@ -4,11 +4,10 @@ focused on digital curation, enterprise frameworks, and scaling early stage prod
 
 ### the focus
 
-<p align="left">
-  <small><code>now      </code> architecting salesforce cloud platform implementations and managing enterprise digital data strategy.</small><br>
-  <small><code>building </code> <i>worn with care</i> — a high-end digital ecosystem for circular fashion. minimal frontend architecture running clean api loops and high-fidelity frameworks.</small><br>
-  <small><code>vibe     </code> strict monochrome layout, low exposure photography, blank-canvas logic, data structures that look like art direction.</small>
-</p>
+*   **now** : architecting salesforce cloud platform implementations and managing enterprise digital data strategy.
+*   **building** : *worn with care* — a high-end digital ecosystem for circular fashion. minimal frontend architecture running clean api loops and high-fidelity frameworks.
+*   **vibe** : strict monochrome layout, low exposure photography, blank-canvas logic, data structures that look like art direction.
+
 
 
 ---
