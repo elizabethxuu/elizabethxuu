@@ -28,12 +28,6 @@ focused on digital curation, enterprise frameworks, and scaling early stage prod
 
 ---
 
-### metrics
-
-<p align="left">
-  <img src="https://vercel.app" height="120" alt="stats" />
-</p>
-
 <p align="left">
   <a href="https://elizabeth-xu.com" target="_blank">elizabeth-xu.com</a>
 </p>
