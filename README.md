@@ -14,7 +14,7 @@ focused on digital curation, enterprise frameworks, and scaling early stage prod
 
 ### the stack
 
-`<next.js>` `<typescript>` `<react>` `<tailwind css>` `<salesforce backend>` `<api loop architecture>`
+`<typescript>` `<react>` `<tailwind css>` `<salesforce backend>` `<api loop architecture>`
 
 ---
 
