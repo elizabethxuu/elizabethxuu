@@ -21,7 +21,7 @@ focused on digital curation, enterprise frameworks, and scaling early stage prod
 ### current edits
 
 #### 📂 **[worn with care](#)**
-> digital platform designed for circular luxury asset management. deeply structured next.js data models, modular components, integrated voice transcription loops via modern api frameworks.
+> digital platform designed for circular luxury asset management. deeply structured data models, modular components, integrated voice transcription loops via modern api frameworks.
 
 #### 📂 **[salesforce blueprints](#)**
 > configuration logic, enterprise deployment models, and technical matrices mapping data flows for large-scale digital transformations.
