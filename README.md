@@ -1,3 +1,4 @@
+### Elizabeth Xu
 focused on digital curation, enterprise frameworks, and scaling early stage product strategy. translating abstract conceptual symmetries into production-ready schemas. based in new york city.
 
 ---
